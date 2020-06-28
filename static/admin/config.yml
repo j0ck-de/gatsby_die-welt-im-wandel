@@ -1,6 +1,7 @@
 backend:
   name: github
-  branch: j0ck-de/gatsby_die-welt-im-wandel
+  repo: j0ck-de/gatsby_die-welt-im-wandel
+  branch: master
 
 media_folder: static/img
 public_folder: /img
