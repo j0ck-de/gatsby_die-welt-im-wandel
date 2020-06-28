@@ -11,7 +11,7 @@ collections:
     label: "Articles"
     folder: "content/articles"
     create: true
-    # slug: "index"
+    slug: "index"
     media_folder: ""
     public_folder: ""
     path: "{{year}/{{slug}}"
