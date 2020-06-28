@@ -14,7 +14,7 @@ collections:
     # slug: "index"
     media_folder: ""
     public_folder: ""
-    path: "{{month}/{{slug}}"
+    path: "{{year}/{{slug}}"
     editor:
       preview: false
     fields:
